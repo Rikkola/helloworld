@@ -1,9 +1,14 @@
 package org.test1;
 
+
+import org.slf4j.Logger;
+
 /**
  * Created by rikkola on 3/19/14.
  */
 public class A {
+
+    Logger logger;
 
     private String name;
 
